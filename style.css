@@ -19,3 +19,26 @@ header{
     display: inline-block;
     vertical-align: middle;
 }
+main{
+    width: 780px;
+    height: 580px;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: white;
+}
+.Button{
+    padding: 10px 40px;
+}
+.app{
+    border-radius: 5px;
+    padding: 10px 10px;
+    border-color: #c4cbd0;
+}
+.task{
+    color: white;
+    background-color: #14aaf5;
+}
+.section{
+    background-color: white;
+    color: #c4cbd0;
+}
