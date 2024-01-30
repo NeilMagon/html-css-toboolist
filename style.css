@@ -21,7 +21,7 @@ header{
 }
 main{
     width: 780px;
-    height: 580px;
+    height: 700px;
     margin: 0 auto;
     margin-top: 40px;
     background-color: white;
@@ -34,11 +34,64 @@ main{
     padding: 10px 10px;
     border-color: #c4cbd0;
 }
-.task{
+.info{
     color: white;
     background-color: #14aaf5;
 }
 .section{
     background-color: white;
     color: #c4cbd0;
+}
+.container{
+    padding: 20px 40px;
+}
+h3{
+    margin-top: 30px;
+}
+.task{
+    padding: 10px;
+}
+.circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+}
+.green{
+    color: green;
+    border-color: green;
+}
+.red{
+    color: red;
+    border-color: red;
+}
+
+
+.goals{
+    font-size: 10px;
+    display: inline-block;
+    color: white;
+    padding: 4px 6px;
+    border-radius: 8px;   
+}
+.blue{
+    background-color: #14aaf5;
+}
+.purple{
+    background-color: #ab5de6;
+}
+.lightgreen{
+    background-color: #2cc6ab;
+}
+.yellow{
+    background-color: #ff9b00;
+}
+.pink{
+    background-color: #ec4a9d;
+}
+.light{
+    background-color: #a3d116;
 }
